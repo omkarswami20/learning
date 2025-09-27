@@ -1,0 +1,2 @@
+# learning
+all basics language 
